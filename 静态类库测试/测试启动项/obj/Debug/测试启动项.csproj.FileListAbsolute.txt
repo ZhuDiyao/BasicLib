@@ -1,0 +1,130 @@
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe.config
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.pdb
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.dll
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.pdb
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csprojAssemblyReference.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Form1.resources
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Properties.Resources.resources
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.GenerateResource.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CoreCompileInputs.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CopyComplete
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.exe
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.pdb
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.dll
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe.config
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\ICSharpCode.SharpZipLib.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.OOXML.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.OpenXmlFormats.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.xml
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.xml
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll.config
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csprojAssemblyReference.cache
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Form1.resources
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Properties.Resources.resources
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.GenerateResource.cache
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CoreCompileInputs.cache
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CopyComplete
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.exe
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe.config
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.OOXML.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.xml
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.xml
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll.config
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csprojAssemblyReference.cache
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Form1.resources
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Properties.Resources.resources
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.GenerateResource.cache
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CoreCompileInputs.cache
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CopyComplete
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.exe
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.打印模型测试窗体.resources
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.打印模型窗体.resources
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\ThoughtWorks.QRCode.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe.config
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.exe
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\测试启动项.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\ICSharpCode.SharpZipLib.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\MySql.Data.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.OOXML.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\BouncyCastle.Crypto.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\ThoughtWorks.QRCode.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\Newtonsoft.Json.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPinyin.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\NPOI.OpenXmlFormats.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.xml
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.xml
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll.config
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\bin\Debug\静态类库测试.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csprojAssemblyReference.cache
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Form1.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.Properties.Resources.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.打印模型测试窗体.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.打印模型窗体.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.GenerateResource.cache
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CoreCompileInputs.cache
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CopyComplete
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.exe
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\测试启动项\obj\Debug\测试启动项.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.csprojAssemblyReference.cache
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.Form1.resources
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.Properties.Resources.resources
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.打印模型测试窗体.resources
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.打印模型窗体.resources
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.GenerateResource.cache
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CoreCompileInputs.cache
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.exe
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\测试启动项.exe.config
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\测试启动项.exe
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\测试启动项.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\ICSharpCode.SharpZipLib.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\NPOI.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\NPOI.OOXML.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\静态类库测试.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\BouncyCastle.Crypto.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\ThoughtWorks.QRCode.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\Newtonsoft.Json.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\NPinyin.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\NPOI.OpenXmlFormats.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_StandardLibrary_WMS.xml
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.xml
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_StandardMethod_WMS.dll.config
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\静态类库测试.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\obj\Debug\测试启动项.csproj.CopyComplete
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_TCPIPDataProtocol.dll
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_TCPIPDataProtocol.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\测试启动项\bin\Debug\JX_TCPIPDataProtocol.xml

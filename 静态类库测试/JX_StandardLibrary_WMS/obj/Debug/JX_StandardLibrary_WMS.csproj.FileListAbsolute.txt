@@ -1,0 +1,57 @@
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\bin\Debug\JX_StandardLibrary_WMS.dll
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\bin\Debug\JX_StandardLibrary_WMS.pdb
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csprojAssemblyReference.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.CoreCompileInputs.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.dll
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.pdb
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXMessageBox.resources
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.GenerateResource.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.Properties.Resources.resources
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\bin\Debug\JX_StandardLibrary_WMS.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\bin\Debug\JX_StandardLibrary_WMS.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.xml
+Y:\MicrosoftAbout\$佳轩仓储管理系统\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXMessageBox.resources
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.Properties.Resources.resources
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.GenerateResource.cache
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.CoreCompileInputs.cache
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.xml
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXMessageBox.resources
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.Properties.Resources.resources
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.GenerateResource.cache
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.CoreCompileInputs.cache
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csprojAssemblyReference.cache
+Y:\$JiaXuan\CSharpProject\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.xml
+Y:\$JiaXuan\CSharpProject\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.dll
+Y:\$JiaXuan\CSharpProject\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXDataCheckBox.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXMessageBox.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXMessageCheckBox.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.Properties.Resources.resources
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.GenerateResource.cache
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.CoreCompileInputs.cache
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.pdb
+Y:\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.xml
+Y:\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.dll
+Y:\佳轩物流仓储管理系统解决方案\JX_StandardLibrary_WMS.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXDataCheckBox.resources
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXMessageBox.resources
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXMessageCheckBox.resources
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.Properties.Resources.resources
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.GenerateResource.cache
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csproj.CoreCompileInputs.cache
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.dll
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\bin\Debug\JX_StandardLibrary_WMS.dll
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\bin\Debug\JX_StandardLibrary_WMS.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\bin\Debug\JX_StandardLibrary_WMS.xml
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.csprojAssemblyReference.cache
+Y:\$JiaXuanBasicLib\静态类库测试\JX_StandardLibrary_WMS\obj\Debug\JX_StandardLibrary_WMS.JXDataSelectBox.resources

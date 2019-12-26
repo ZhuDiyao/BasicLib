@@ -1,0 +1,28 @@
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.dll
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.pdb
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csprojAssemblyReference.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csproj.CoreCompileInputs.cache
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.dll
+Y:\MicrosoftAbout\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.pdb
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csproj.CoreCompileInputs.cache
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.dll
+Y:\MicrosoftAbout\$佳轩仓储管理系统\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.pdb
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csproj.CoreCompileInputs.cache
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.dll
+C:\Users\ZhuDiyao\Documents\Tencent Files\215503846\FileRecv\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\bin\Debug\静态类库测试.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csproj.CoreCompileInputs.cache
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.dll
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.pdb
+Y:\$JiaXuan\CSharpProject\基础信息和方法解决方案\静态类库测试\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csprojAssemblyReference.cache
+Y:\$JiaXuanBasicLib\静态类库测试\静态类库测试\bin\Debug\静态类库测试.dll
+Y:\$JiaXuanBasicLib\静态类库测试\静态类库测试\bin\Debug\静态类库测试.pdb
+Y:\$JiaXuanBasicLib\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csprojAssemblyReference.cache
+Y:\$JiaXuanBasicLib\静态类库测试\静态类库测试\obj\Debug\静态类库测试.csproj.CoreCompileInputs.cache
+Y:\$JiaXuanBasicLib\静态类库测试\静态类库测试\obj\Debug\静态类库测试.dll
+Y:\$JiaXuanBasicLib\静态类库测试\静态类库测试\obj\Debug\静态类库测试.pdb

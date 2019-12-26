@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JX_StandardLibrary_WMS</name>
+    </assembly>
+    <members>
+        <member name="F:JX_StandardLibrary_WMS.JXDataCheckBox.用户选择">
+            <summary>
+            用于表示用户的选择
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataCheckBox.#ctor">
+            <summary>
+            佳轩消息确认盒子
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataCheckBox.#ctor(System.String,System.Data.DataTable)">
+            <summary>
+            传入消息内容进行构造
+            成员变量：【用户选择】是表示用户选择了什么，确认：true。取消：false。
+            </summary>
+            <param name="内容_"></param>
+            <param name="数据表"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataCheckBox.Show(System.String,System.Data.DataTable)">
+            <summary>
+            确认：true。取消：false。
+            </summary>
+            <param name="提示内容_"></param>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXDataCheckBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataCheckBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataCheckBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXDataSelectBox.用户选择">
+            <summary>
+            用于表示用户的选择
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXDataSelectBox.内存表">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataSelectBox.#ctor">
+            <summary>
+            佳轩内容选择盒子
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataSelectBox.#ctor(System.String,System.Data.DataTable,System.Boolean)">
+            <summary>
+            佳轩内容选择盒子
+            </summary>
+            <param name="内容_"></param>
+            <param name="数据表"></param>
+            <param name="隐藏列标题"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataSelectBox.Show(System.String,System.Data.DataTable,System.Boolean)">
+            <summary>
+            返回用户选择结果
+            </summary>
+            <param name="提示内容_"></param>
+            <param name="数据表_"></param>
+            <param name="隐藏列标题_"></param>
+            <returns></returns>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXDataSelectBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataSelectBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDataSelectBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXDateFormat">
+            <summary>
+            用于统一标准时间格式
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDateFormat.DF_yyyyMMdd">
+            <summary>
+            年月日的时间格式标准
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDateFormat.DF_yyyyMMddHHmmss">
+            <summary>
+            年月日时分秒的时间格式标准
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXDateFormat.DF_yyyyMMddHHmmssfff">
+            <summary>
+            年月日时分秒毫秒的时间格式标准
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXMessageException">
+            <summary>
+            佳轩异常消息类
+            调用参考【throw new JXMessageException("123");】
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageException.#ctor">
+            <summary>
+            无参构造，不建议调用
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageException.#ctor(System.String)">
+            <summary>
+            建议使用此构造方法
+            调用参考【throw new JXMessageException("123");】
+            </summary>
+            <param name="msg"></param>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXFastPath">
+            <summary>
+            快捷路径获取方式
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXFastPath.GetDeskFilePath(System.String)">
+            <summary>
+            获取桌面文件的路径，传入桌面的文件名，返回这个文件的完整路径。
+            </summary>
+            <param name="FileName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXFastPath.ChooseExcelPath(System.String)">
+            <summary>
+            调用此方法，会弹出一个文件选择窗口
+            让用户选择表格文件
+            若用户进行了选择，就返回 文件全路径
+            如果用户没有选择，则返回 null
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXFastPath.ChooseExcelPath(System.String,System.String)">
+            <summary>
+            调用此方法，会弹出一个文件选择窗口
+            让用户选择文件
+            若用户进行了选择，就返回 文件全路径
+            如果用户没有选择，则返回 null
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXMessageBox">
+            <summary>
+            提示消息的盒子
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXMessageBox.flag">
+            <summary>
+            用于指示消息盒子当前是否已经处在弹出状态。
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageBox.#ctor(System.Int32,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="倒计时值_"></param>
+            <param name="标题内容_"></param>
+            <param name="提示内容_"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageBox.Show(System.String)">
+            <summary>
+            推荐使用的提示。
+            </summary>
+            <param name="提示内容_"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageBox.Show(System.String,System.String)">
+            <summary>
+            一般使用一个参数的。标题一般不需要修改。
+            </summary>
+            <param name="标题内容_"></param>
+            <param name="提示内容_"></param>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXMessageBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXInterfaceAddr">
+            <summary>
+            请求接口地址信息
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXInterfaceAddr.BasicAddr">
+            <summary>
+            请求基础地址
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXInterfaceAddr.GetLoginInterface">
+            <summary>
+            应使用POST请求，请求参数包含【uname（用户名）】【pword（密码）】
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXMessageCheckBox.用户选择">
+            <summary>
+            用于表示用户的选择
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageCheckBox.#ctor">
+            <summary>
+            佳轩消息确认盒子
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageCheckBox.#ctor(System.String)">
+            <summary>
+            传入消息内容进行构造
+            成员变量：【用户选择】是表示用户选择了什么，确认：true。取消：false。
+            </summary>
+            <param name="内容_"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageCheckBox.Show(System.String)">
+            <summary>
+            确认：true。取消：false。
+            </summary>
+            <param name="提示内容_"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageCheckBox.Show(System.String,System.String)">
+            <summary>
+            展示消息内容的方法
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXMessageCheckBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageCheckBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXMessageCheckBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXPROJECTABOUT">
+            <summary>
+            项目相关内容
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXPROJECTABOUT.NAME_Chinese">
+            <summary>
+            项目名称(中文全称)，全项目唯一。
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXPROJECTABOUT.NAME_Chinese_Simple">
+            <summary>
+            项目名称(中文简称)，全项目唯一。
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXPROJECTABOUT.NAME_English">
+            <summary>
+            项目名称（英文全称），全项目唯一。
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXPROJECTABOUT.NAME_English_Simple">
+            <summary>
+            项目名称（英文简称），全项目唯一。
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXPROJECTABOUT.InitPro(System.String,System.String,System.String,System.String)">
+            <summary>
+            初始化项目名称信息
+            </summary>
+            <param name="中文全称"></param>
+            <param name="中文简称"></param>
+            <param name="英文全称"></param>
+            <param name="英文简称"></param>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXStyle">
+            <summary>
+            项目中的样式标准，尽可能使用此处的样式。
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXStyle.Color_Title">
+            <summary>
+            一般用于标题的颜色
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXStyle.Color_Good">
+            <summary>
+            一般代表好的正确的
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXStyle.Color_Bad">
+            <summary>
+            一般代表坏的错误的
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXStyle.Color_SupperBad">
+            <summary>
+            一般代表超级坏的超级错误的（比错的级别更高的错的颜色）
+            </summary>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.SetDataGridViewStandardStyle(System.Windows.Forms.DataGridView)">
+            <summary>
+            佳轩WMS 内存表 展示的默认样式
+            方法创建时间：2019-08-21
+            </summary>
+            <param name="dgv"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.SetDataGridViewSytle(System.Windows.Forms.DataGridView)">
+            <summary>
+            为正常的表赋样式。
+            仅适用于数据量非常少的表。
+            列一般要求小于6列。
+            单个单元格数据内容少于20个字符。
+            </summary>
+            <param name="dgv"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.RefuseSort(System.Windows.Forms.DataGridView)">
+            <summary>
+            设置DGV不能点击列头部排序.
+            请注意，先保证dgv中有数据。
+            如果对空的DGV进行设置，然后再填入数据，这样操作是无效的。
+            </summary>
+            <param name="dg"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.SetGridAlternatingRows(System.Windows.Forms.DataGridView)">
+            <summary>
+            佳轩WMS 内存表 展示的默认样式。【不建议使用201910251505诸迪耀】【建议使用SetDataGridViewStandardStyle】
+            方法创建时间：项目开始
+            </summary>
+            <param name="dg"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.FullRowSelectMode(System.Windows.Forms.DataGridView)">
+            <summary>
+            为DGV设置一行一行的选择模式。
+            修改：2019年06月19日，取消行选择模式。
+            </summary>
+            <param name="dg"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.DGVHeadHeight(System.Windows.Forms.DataGridView)">
+            <summary>
+            为dgv设置表头的高度，并且不可调整。默认值为50
+            并且
+            不可以自由拖动列标题
+            </summary>
+            <param name="dg"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.SetReadOnly(System.Windows.Forms.DataGridView)">
+            <summary>
+            为DGV设置只读，不可修改
+            </summary>
+            <param name="dg"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.DateTimePickerStandard(System.Windows.Forms.DateTimePicker,System.Int32)">
+            <summary>
+            时间控件标准显示方式。
+            参考标准尺寸 180,13 。
+            宽度标准 180 。
+            </summary>
+            <param name="dtp"></param>
+            <param name="day"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.DateTimePickerStandard4Start(System.Windows.Forms.DateTimePicker)">
+            <summary>
+            时间控件标准显示方式。
+            参考标准尺寸 180,13 。
+            宽度标准 180 。
+            </summary>
+            <param name="dtp"></param>
+        </member>
+        <member name="M:JX_StandardLibrary_WMS.JXStyle.DateTimePickerStandard4End(System.Windows.Forms.DateTimePicker)">
+            <summary>
+            时间控件标准显示方式。
+            参考标准尺寸 180,13 。
+            宽度标准 180 。
+            </summary>
+            <param name="dtp"></param>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JX_m_Message_SL">
+            <summary>
+            消息实体
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.id">
+             <summary>
+            自动递增 整数
+             </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.a_Result">
+             <summary>
+            消息结果 varchar255 ,success,error
+             </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.a_Content">
+             <summary>
+            消息内容 varchar255
+             </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.a_Time">
+             <summary>
+            消息返回时间 varchar255
+             </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.a_MD5">
+             <summary>
+            消息校验值 varchar255
+             </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.a_Type">
+             <summary>
+            消息结果类型 varchar255
+             </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.a_Reason">
+             <summary>
+            消息原因 varchar255
+             </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JX_m_Message_SL.a_ipAddr">
+             <summary>
+            消息来源IP varchar255
+             </summary>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:JX_StandardLibrary_WMS.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:JX_StandardLibrary_WMS.Properties.Resources.Culture">
+            <summary>
+              重写当前线程的 CurrentUICulture 属性
+              重写当前线程的 CurrentUICulture 属性。
+            </summary>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.StandardLibVersion">
+            <summary>
+            标准库的版本
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.StandardLibVersion.CHECKVersion">
+            <summary>
+            项目启动时，应校验版本号是否为发布的最新版本号。以确保各项数据正确。
+            </summary>
+        </member>
+        <member name="T:JX_StandardLibrary_WMS.JXTIPABOUT">
+            <summary>
+            提示语相关内容
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXTIPABOUT.LOGINFAIL_0X00001">
+            <summary>
+            登陆失败提示语
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXTIPABOUT.NETWORKEXCEPTION_0X00002">
+            <summary>
+            网络错误提示语
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXTIPABOUT.DATABASEEXCEPTION_0X00003">
+            <summary>
+            数据库错误提示语
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXTIPABOUT.UserNameCanNotIsNull_0X00004">
+            <summary>
+            异常提示_用户名不能是空的
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXTIPABOUT.PassWordCanNotIsNull_0X00005">
+            <summary>
+            异常提示_密码不能是空的
+            </summary>
+        </member>
+        <member name="F:JX_StandardLibrary_WMS.JXTIPABOUT.SystemRunError_0X00006">
+            <summary>
+            系统运行中发生错误，请联系网络管理员处理。
+            </summary>
+        </member>
+    </members>
+</doc>
